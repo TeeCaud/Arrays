@@ -81,3 +81,10 @@ irb(main):031:0> booleans.push
 => [false, true]
 irb(main):032:0> booleans.length
 => 2
+
+
+An index position is the position of the element in the array. Index positions always start count with 0 first.
+
+animals = ["dog", "cat", "bird", "frog"]
+
+* The index position for bird will be 2. 
