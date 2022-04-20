@@ -87,4 +87,12 @@ An index position is the position of the element in the array. Index positions a
 
 animals = ["dog", "cat", "bird", "frog"]
 
-* The index position for bird will be 2. 
+* The index position for bird will be 2.
+
+
+using .reverse will reverse the order of the array.
+
+irb(main):001:0> x = [1, 2, 3]
+=> [1, 2, 3]
+irb(main):002:0> x.reverse
+=> [3, 2, 1]
